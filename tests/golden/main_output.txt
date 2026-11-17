@@ -1,0 +1,108 @@
+============================================
+            LONE STAR OUTFITTERS            
+                Order #1001                 
+============================================
+Customer: Alice Johnson
+Email:    alice@example.com
+--------------------------------------------
+Canvas Tote           1 x   24.99 =    24.99
+--------------------------------------------
+Subtotal:                             $24.99
+Shipping:                              $7.99
+Sales tax (8.25%):                     $2.72
+TOTAL:                                $35.70
+============================================
+Thank you for shopping with us!
+
+Sending confirmation email to alice@example.com...
+  Order #1001 confirmed. Total charged: $35.70
+============================================
+            LONE STAR OUTFITTERS            
+                Order #1002                 
+============================================
+Customer: Ben Carter
+Email:    ben@example.com
+--------------------------------------------
+Hiking Boots          1 x   89.99 =    89.99
+Wool Socks            2 x   12.50 =    25.00
+--------------------------------------------
+Subtotal:                            $114.99
+Premium discount (10%):              -$11.50
+Shipping:                               FREE
+Sales tax (8.25%):                     $8.54
+TOTAL:                               $112.03
+============================================
+Thank you for shopping with us!
+
+Sending confirmation email to ben@example.com...
+  Order #1002 confirmed. Total charged: $112.03
+============================================
+            LONE STAR OUTFITTERS            
+                Order #1003                 
+============================================
+Customer: Carmen Lopez
+Email:    carmen@example.com
+--------------------------------------------
+Rain Jacket           1 x  120.00 =   120.00
+--------------------------------------------
+Subtotal:                            $120.00
+Employee discount (20%):             -$24.00
+Shipping:                               FREE
+Sales tax (8.25%):                     $7.92
+TOTAL:                               $103.92
+============================================
+Thank you for shopping with us!
+
+Sending confirmation email to carmen@example.com...
+  Order #1003 confirmed. Total charged: $103.92
+============================================
+            LONE STAR OUTFITTERS            
+                Order #1004                 
+============================================
+Customer: Dev Patel
+Email:    dev@example.com
+--------------------------------------------
+Camp Mug              3 x   18.00 =    54.00
+--------------------------------------------
+Subtotal:                             $54.00
+Premium discount (10%):               -$5.40
+Shipping:                              $7.99
+Sales tax (8.25%):                     $4.67
+TOTAL:                                $61.26
+============================================
+Thank you for shopping with us!
+
+Sending confirmation email to dev@example.com...
+  Order #1004 confirmed. Total charged: $61.26
+============================================
+            LONE STAR OUTFITTERS            
+                Order #1005                 
+============================================
+Customer: Erin Walsh
+Email:    erin@example.com
+--------------------------------------------
+Water Bottle          2 x   15.00 =    30.00
+--------------------------------------------
+Subtotal:                             $30.00
+Shipping:                              $7.99
+Sales tax (8.25%):                     $3.13
+TOTAL:                                $41.12
+============================================
+Thank you for shopping with us!
+
+Sending confirmation email to erin@example.com...
+  Order #1005 confirmed. Total charged: $41.12
+============================================
+            LONE STAR OUTFITTERS            
+            Daily Order Summary             
+============================================
+#1001 Alice Johnson                   $35.70
+#1002 Ben Carter                     $112.03
+#1003 Carmen Lopez                   $103.92
+#1004 Dev Patel                       $61.26
+#1005 Erin Walsh                      $41.12
+--------------------------------------------
+Orders processed: 5             
+Grand total:                         $354.03
+============================================
+
